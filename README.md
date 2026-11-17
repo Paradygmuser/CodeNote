@@ -8,19 +8,16 @@ L'objectif est de favoriser le partage des connaissances & l'entraide, tout en c
 
 Le documents partagés le sont avec l'autorisation de leurs contributeurs.
 ## Catalogue
-<ul>
-  <li>1er année :</li>
-    <ul>
-      <li>Initiation aux Base de données relationnelles</li>
-      <li>Administration & Gestion de Base de données relationnelles</li>
-      <li>Principe d'algorithmie</li>
-    </ul>
-  <li>2eme année :</li>
-    <ul>
-      <li>Programmation orientée objet</li>
-      <li>Projet d'Analyse et conception (xml drawio)</li>
-    </ul>
-</ul>
+- [1er année](https://github.com/Paradygmuser/CodeNote/tree/main/1er)
+    - Initiation aux Base de données relationnelles
+    - Administration & Gestion de Base de données relationnelles
+    - Principe d'algorithme
+
+- [2eme année :](https://github.com/Paradygmuser/CodeNote/tree/main/2eme)
+    - Programmation orientée objet
+    - Projet d'Analyse et conception
+    - PWD
+
 
 ## Contributions 
 Ce dépôt repose sur le partage et la collaboration. Afin de conserver une base documentaire exploitable par tous, quelques règles doivent être respectées.
@@ -33,3 +30,5 @@ Ce dépôt repose sur le partage et la collaboration. Afin de conserver une base
 
 ## Q&A - Questions et entraide
 Une difficulté? une incompréhension dans un exo? une question sur les notions? 
+
+Posez votre question dans [dans la section issues du depôt](https://github.com/Paradygmuser/CodeNote/issues) en ouvrant un **New issue**
