@@ -26,8 +26,8 @@ Le documents partagés le sont avec l'autorisation de leurs contributeurs.
 Ce dépôt repose sur le partage et la collaboration. Afin de conserver une base documentaire exploitable par tous, quelques règles doivent être respectées.
 
 - **Respect des autorisations :** toute contribution doit être partagée avec l'accord de son auteur.
-- **Format des ressources :** les scans d'images et les contenus multimédias ne sont pas acceptés, même lorsqu'ils sont directement liés aux cours.
-- **PDF** seul les pdf relatifs aux diagrammes uml seront acceptés, la taille doit etre de maximum 100ko, les fichier xml sont aussi accepté pour etre ouvert sur drawio.
+- **Format des ressources :** les scans d'images(jpeg, pngn etc) et les contenus multimédias ne sont pas acceptés, même lorsqu'ils sont directement liés aux cours.
+- **PDF** seul les pdf relatifs aux cours ou au diagrammes uml seront acceptés, la taille devrait etre de maximum 100ko, les fichier xml sont aussi accepté pour etre ouvert sur drawio.
 - **Sources documentaires :** toute référence externe doit être accompagnée d'un lien ou d'une citation permettant d'identifier sa provenance.
 - **Pertinence :** les contributions doivent être en rapport avec les matières et les objectifs pédagogiques du dépôt.
 
